@@ -1,6 +1,5 @@
-# Copyright 2015 Sean Nelson <audiohacked@gmail.com>
 FROM openjdk:alpine
-MAINTAINER Sean Nelson <audiohacked@gmail.com>
+MAINTAINER Wouter Sonneveldt <wouter@sonneveldt.net>
 
 ENV BASE_URL="https://addons-origin.cursecdn.com/files/2344/891"
 ENV FTB_VERSION=""
