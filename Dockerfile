@@ -1,7 +1,7 @@
 FROM openjdk:alpine
 MAINTAINER Wouter Sonneveldt <wouter@sonneveldt.net>
 
-ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTPPresentsDirewolf20110"
+ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTBPresentsDirewolf20110"
 ENV FTB_VERSION="1_0_0"
 ENV SERVER_FILE="FTBPresentsDirewolf20110Server.zip"
 ENV SERVER_PORT 25565
