@@ -2,7 +2,7 @@ FROM openjdk:alpine
 MAINTAINER Wouter Sonneveldt <wouter@sonneveldt.net>
 
 ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTBPresentsSkyfactory25"
-ENV FTB_VERSION="2_5_5"
+ENV FTB_VERSION="2_5_6"
 ENV SERVER_FILE="FTBPresentsSkyfactory25Server.zip"
 ENV SERVER_PORT 25565
 
