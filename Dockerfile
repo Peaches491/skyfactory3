@@ -1,9 +1,9 @@
 FROM openjdk:alpine
 MAINTAINER Wouter Sonneveldt <wouter@sonneveldt.net>
 
-ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTBPresentsSkyfactory25"
-ENV FTB_VERSION="2_5_6"
-ENV SERVER_FILE="FTBPresentsSkyfactory25Server.zip"
+ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTBPresentsSkyfactory3"
+ENV FTB_VERSION="3_0_4"
+ENV SERVER_FILE="FTBPresentsSkyfactory3Server.zip"
 ENV SERVER_PORT 25565
 
 WORKDIR /minecraft
